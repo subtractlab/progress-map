@@ -1,0 +1,21 @@
+{
+  "title": "Progress Map: a dated design record",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "description": "<p>Where everything is now — and why it changed.</p><p>A file-and-code map for people who build software by talking to an AI every day.\nIt keeps the *current* state of every file, and a change ledger in which **every edit carries a reason and a reverse patch** — tied back to the conversation section that caused it. No git.</p><p>A dated public record of the design. The implementation is not published. More: https://subtractlab.com</p>",
+  "creators": [
+    {
+      "name": "Okuda, Koji",
+      "affiliation": "SubtractLab",
+      "orcid": "0009-0003-9251-8455"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "AI memory",
+    "conversational memory",
+    "LLM agents",
+    "SubtractLab"
+  ]
+}
