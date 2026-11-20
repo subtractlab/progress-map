@@ -9,6 +9,7 @@ It keeps the *current* state of every file, and a change ledger in which **every
 ![runs](https://img.shields.io/badge/runs-local-blue)
 ![status](https://img.shields.io/badge/status-in%20daily%20use-brightgreen)
 ![since](https://img.shields.io/badge/in%20use%20since-2026--10--04-lightgrey)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24388289.svg)](https://doi.org/10.5281/zenodo.24388289)
 
 ---
 
