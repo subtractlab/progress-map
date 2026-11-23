@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you refer to this design, please cite it as below."
+title: "Progress Map: a dated design record"
+type: software
+authors:
+  - family-names: Okuda
+    given-names: Koji
+    orcid: "https://orcid.org/0009-0003-9251-8455"
+    affiliation: SubtractLab
+    website: "https://subtractlab.com"
+version: v1.0.0
+date-released: "2026-11-20"
+doi: 10.5281/zenodo.24388289
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24388289
+    description: "Concept DOI (always resolves to the latest version)"
+  - type: doi
+    value: 10.5281/zenodo.24388290
+    description: "Version DOI for v1.0.0"
+  - type: url
+    value: "https://subtractlab.com"
+repository-code: "https://github.com/subtractlab/progress-map"
+url: "https://subtractlab.com"
+license: CC-BY-4.0
+keywords:
+  - "AI memory"
+  - "conversational memory"
+  - "LLM agents"
+  - "SubtractLab"
